@@ -26,7 +26,7 @@ Follow these steps to get your development environment set up:
 
 ![image](https://github.com/user-attachments/assets/05baff7b-393f-48fa-81ab-a10e9689bae5)
 
-===================================================================================
+
 
 ![image](https://github.com/user-attachments/assets/c32c929c-f331-4a11-90e1-6be40701c10b)
 
